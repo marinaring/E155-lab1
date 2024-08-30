@@ -1,0 +1,1 @@
+This is my first lab for Micro P's! We are starting off with basic code to ensure that my assembled board with an FPGA and MCU are working properly :)
